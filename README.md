@@ -13,3 +13,7 @@ The dataset contains information scraped from Amazon product pages, including:
 - Customer engagement: user reviews, titles, and content
 - Each row represents a unique product, with aggregated reviewer data stored as comma-separated values
 Total Records: 1,465 rows TotalFields: 16 columns
+
+### Analysis Tasks & Tools
+The tool used for this task is MicroSoft Excel (Download here){https://www.microsoft.com/en/microsoft-365/excel?market=af}
+
