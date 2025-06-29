@@ -35,3 +35,9 @@ The tool used for this task is MicroSoft Excel (Download here){https://www.micro
 ### Dashboard Creation
 Using the cleaned dataset and pivot outputs, build an Excel dashboard.
 
+
+
+
+The data (xlx file) was downloaded, and opened with the MS Excel 
+
+
