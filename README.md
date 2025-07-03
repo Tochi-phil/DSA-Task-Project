@@ -51,6 +51,8 @@ Using the cleaned dataset and pivot outputs, build an Excel dashboard.
              - 320 products have fewer than 1,000 reviews 
               - Traditional Laptops, SmartTelevisions and Smartphones have the highest discounts
 
+** You can view the attached file for the analysis and insights
+
 
 
 
