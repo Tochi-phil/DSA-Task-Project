@@ -36,6 +36,22 @@ The tool used for this task is MicroSoft Excel (Download here){https://www.micro
 Using the cleaned dataset and pivot outputs, build an Excel dashboard.
 
 
+The file was downloaded, and MS Excel was used to inspect the dataset.
+To check for blanks for numbers and text Countblank function was used. The dataset cleaning continued by removing some columns that were not needed in the analysis.
+The TextAfter function was used to shorten the long product category descriptions, and the new column for the short description is labelled Category_extc.
+The Price bucket column was gotten by actual_price - discounted_price = price bucket
+Potential revenue by category = actual_price x rating_count
+Average discount percectage by product category is 48%
+Tota number of reviews per category is 26,767,877
+Smartphones, SmartTelevision, InstantWater heater, Hand Blenders etc have the highest average rating.
+HDMI Cables, Headphones, Smartphones etc have highest number of reviews.
+751 products have discount of 50% and more
+4 products have a 3.0 rating, 181 products have 4.0 rating.
+The higher the rating lower the discounted price, and the lower the rating the higher the discounted price this is to encourage consuner to buy.
+320 products have fewer than 1,000 reviews 
+Traditional Laptops, SmartTelevisions and Smartphones have the highest discounts
+
+
 
 
 The data (xlx file) was downloaded, and opened with the MS Excel 
